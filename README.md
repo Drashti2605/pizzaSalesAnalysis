@@ -18,16 +18,8 @@ This project provides a comprehensive analysis of pizza sales data using Microso
 
 ##  Data Source
 
-Dummy dataset: `pizza_sales.csv` (available in the repository)
+dataset: `pizza_sales.csv` (available in the repository)
 
-##  Getting Started
-
-1. Clone the repo
-2. Open `pizzaSalesInsights.pbix` in Power BI Desktop
-3. Use `first.sql` or the Word doc to recreate analysis in your SQL environment
-4. Explore and interact with the dashboard
-
----
 
 ##  Author
 
